@@ -11,3 +11,9 @@ to help in tracking trends
 3-performance analysis
 
 comparing current value to target value [current(measure) - target(measure)] [lead/lag(measurment) by date dim]
+
+4-part to whole
+
+5-data segmentation 
+
+building new category/dim
