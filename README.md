@@ -6,4 +6,8 @@ analyzie how a measurment evolves overtime
 to help in tracking trends
 
 
-2-
+2-agg the data proggresively over the time [agg(commulative measurment) by date dim]
+
+3-performance analysis
+
+comparing current value to target value [current(measure) - target(measure)] [lead/lag(measurment) by date dim]
